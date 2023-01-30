@@ -1,4 +1,4 @@
-# BackupDancers
+# BackupDancers Snapchat Lens
 
 ## Inspiration
 As a dancer, choreographing and blocking can be hard when you're by yourself. It can be difficult to visualize what different formations might look like. Therefore, I decided to create the Backup Dancers lens to help dancers visualize what their choreography could look like in different formations.
